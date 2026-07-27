@@ -79,6 +79,8 @@ Open `yt_to_obsidian.py` and set:
 python3 yt_to_obsidian.py
 ```
 
+<img width="2162" height="764" alt="image" src="https://github.com/user-attachments/assets/f3e74166-f649-4963-a8b4-ef26859b0729" />
+
 The script:
 - Processes videos one at a time, classifying each as useful or waffle
 - Writes useful ones as `.md` notes with tags/tools/summary in the frontmatter
@@ -108,6 +110,8 @@ https://www.youtube.com/watch?v=xxxxxxxxxxx
 ```
 
 Once generated, drag the `YT_Resources` folder into your Obsidian vault. Every note's tags, category, and title show up in Obsidian's Properties panel and are fully searchable.
+
+
 
 ## Known limitations
 
